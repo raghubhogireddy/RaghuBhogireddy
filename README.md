@@ -11,10 +11,10 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/raghuramop/" target="_blank">
+<a href="https://www.linkedin.com/in/raghubhogireddy/" target="_blank">
    <img align="left" src="https://img.icons8.com/fluent/30/000000/linkedin.png"/>
  </a>
- <a href="https://twitter.com/ram_bhogireddy" target="_blank">
+ <a href="https://twitter.com/RaghuBhogireddy" target="_blank">
    <img align="left" src="https://img.icons8.com/fluent/30/000000/twitter.png"/>
  </a>
  <a href="https://www.instagram.com/raghuram.bhogireddy/" target="_blank">
