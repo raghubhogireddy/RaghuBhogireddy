@@ -1,6 +1,5 @@
 ## Hi there, I'm Raghu 👋
 
-[![HitCount](http://hits.dwyl.com/raghuramOP/raghuramOP.svg)](http://hits.dwyl.com/RaghuBhogireddy/RaghuBhogireddy)
 
 ### A passionate self-taught Backend developer from India. !!
 
