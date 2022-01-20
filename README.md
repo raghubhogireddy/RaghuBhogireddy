@@ -3,7 +3,7 @@
 
 ### A passionate self-taught Backend developer from India. !!
 
-- 🔭 I’m currently working in HCL Technologies
+- 🔭 I’m currently working in Nokia
 - 🌱 I’m currently learning SpringBoot & MicroServices
 - 🤔 I’m looking for help with ... Spring FrameWork
 - 💬 Ask me about ...Anything
