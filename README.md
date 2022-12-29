@@ -1,7 +1,7 @@
 <h1 align="center">Hi There 👋, I'm Raghu</h1>
 <h3 align="center">A passionate Backend developer from India !!</h3>
 
-<p align="left"> <a href="https://twitter.com/raghubhogireddy" target="blank"><img src="https://img.shields.io/twitter/follow/raghubhogireddy?logo=twitter&style=for-the-badge" alt="raghubhogireddy" /></a> </p>
+<p align="left"> <a href="https://twitter.com/raghubhogireddy" target="blank"><img src="[https://img.shields.io/twitter/follow/raghubhogireddy?logo=twitter&style=for-the-badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fraghubhogireddy)" alt="raghubhogireddy" /></a> </p>
 
 - 🔭 I’m currently working in **NOKIA**
 
