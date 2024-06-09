@@ -2,13 +2,9 @@
 <h3 align="center">A passionate Backend developer from India !!</h3>
 
 
-- 🔭 I’m currently working in **NOKIA**
+- 🔭 At present working in **NOKIA**
 
 - 🌱 I’m currently learning **Python, Docker & Kubernetes**
-
-- 👯 I’m looking to collaborate on **Python**
-
-- 🤝 I’m looking for help with **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RaghuBhogireddy?tab=repositories](https://github.com/RaghuBhogireddy?tab=repositories)
 
@@ -16,7 +12,7 @@
 
 - 📫 Reach out from here <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=raghubhogireddy&style=social&url=https%3A%2F%2Ftwitter.com%2Fraghubhogireddy">
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/raghubhogireddy/overlay/1635475719429/single-media-viewer/](https://www.linkedin.com/in/raghubhogireddy/overlay/1635475719429/single-media-viewer/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/raghubhogireddy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
