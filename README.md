@@ -4,7 +4,7 @@
 
 - 🔭 At present working in **NOKIA**
 
-- 🌱 I’m currently learning **Python, Docker & Kubernetes**
+- 🌱 I’m currently learning **java, Spring, System Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RaghuBhogireddy?tab=repositories](https://github.com/RaghuBhogireddy?tab=repositories)
 
