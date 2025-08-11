@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+.dark {
+  background: #121212;
+  color: white;
+}
+.navbar {
+  position: sticky;
+  top: 0;
+  background: var(--bg);
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  z-index: 10;
+}
+.hero {
+  text-align: center;
+  padding: 2rem;
+}
+.profile-pic {
+  width: 150px;
+  border-radius: 50%;
+}
+.btn {
+  background: teal;
+  padding: 0.5rem 1rem;
+  color: white;
+  text-decoration: none;
+}
+.skills, .experience, .education {
+  padding: 2rem;
+}
+footer {
+  text-align: center;
+  padding: 1rem;
+}
